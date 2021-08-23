@@ -27,6 +27,10 @@ header {
     align-items: center;
 }
 
+img {
+    max-width: 100%;
+}
+
 .menu-openner {
     margin-right: 15px;
     font-size: 26px;
